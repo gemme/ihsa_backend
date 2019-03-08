@@ -1,0 +1,6 @@
+{
+  "db": {
+    "url": "mongodb://ihsamongodb:ihsamong0db@ds031895.mlab.com:31895/ihsa",
+    "connector": "mongodb"
+  }
+}
